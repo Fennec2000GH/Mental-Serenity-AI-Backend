@@ -1,15 +1,10 @@
 
-import pafy
-import vlc
+import urllib.request
+import re
 
-url = "https://www.youtube.com/watch?v=bMt47wvK6u0"
-video = pafy.new(url)
-best = video.getbest()
-playurl = best.url
+search_keyword="mozart"
+html = urllib.request.urlopen("https://www.youtube.com/results?search_query=" + search_keyword)
+video_ids = re.findall(r"watch\?v=(\S{11})", html.read().decode())
 
-Instance = vlc.Instance()
-player = Instance.media_player_new()
-Media = Instance.media_new(playurl)
-Media.get_mrl()
-player.set_media(Media)
-player.play()
+for video_id in video_ids:
+	print("https://www.youtube.com/watch?v=" + video_id)
