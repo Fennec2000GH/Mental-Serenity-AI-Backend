@@ -130,3 +130,6 @@ dmypy.json
 
 # custom
 /src/aitextgen
+/src/*.json
+*.sqlite3
+

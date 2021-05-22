@@ -1,0 +1,8 @@
+{
+	timestamp: Timestamp,
+	stressed: Boolean,
+	sentiment: Double,
+	entities: Array,
+	emotion: String,
+	attachments: Object
+}

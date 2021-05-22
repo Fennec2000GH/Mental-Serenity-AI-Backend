@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sleeplika",
+  "private_key_id": "041b97fe8a5bb409759fdcf11df4568e4f233c1c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDWc+c0+EvbDWx/\nSZmQdCX2bt+vcsdDpcLVXem4BE/hHF9+VfEyYOU5E4TUTboZKCHeBAN/z3KClGM/\nplOveHK4Kn1vOEComCqY4zHGvQ1mY6SUl0YL/84wdm10jbTPeP1bHYfDMOBykMAH\nqZVvt9P1sJ0G/K4tcFUGNo6c8sp98s8hykDhiTicsMNVOPXQ/+Jwm3UUTd85m3Ds\n9KAgCUhvk7BFnSrYJMeeh9Su4wUUDH1jhFcUIqceV7NA+qpnm3cL+3xMDzrPzdl/\nqDSEoWhz1GVBhMNWORuWd4PhZcK6ZsBEdUBGFaXc4tgEZQepwq69Aylqb9HBUNhG\naTspB619AgMBAAECggEAQop+EBqG9vYoVyqQIplXeiqW74qOt7fER443SejUnEXA\nf6PNDlOwbFBZI8LmXo3sTEY0i8DjiA7g6MwEJWsbNXfBqfPrZCSq+vtr432fnciH\nNa/mhSyfXrwwZDzgAIxLGK2GBZOx4Pp3Cymce6ivdQmS/6sBpIm5aA8fmyVenUtb\nOsAeorhSoOwvx+JwY1Sywd3agIbLiH8Uj4UObMa//rWznQ+m7F8JfpufjaUE6IYJ\n3/oKAKfMm4Pq5mvYM9AQUfMfta4zLzqPPdyM2dO+xsmNiJfNZd8qqLqNE2vvc1Zz\nMgPoWdyZoVSrzmoMzpcJKSWl8RPJtau0vWiLJjx8xQKBgQD5DsV0NSYVnwDslFPX\n/NI/1EbvNKW0DI1SFjAzzJ45hPjeWaQ7dmd03EqweSkxinFp0srjhJW0LGrPoxDa\n+yeNcJWKyYh2kpLmVACenQtykUKuVSE+w2DXP5nQv3ecOCDfdcrcasvkJTIIIcxe\n6U6vdrVf3EtSo9qHRqEqgMNLowKBgQDcbjKLJiMkSNioFa4WA4zSDU9YG31DntP4\nda9JZKNPNA23ibX8fJ4qt5l7DxUnTHx3nGiA6LjOZRJPtyhiCn5POfCuD0ybQZOl\noPZ5AgC74VTRHppBaimF6tx37Rsrt6O5Mi5uz+IKjyMlEyEVtxnzQyV5znn3gwNy\nr6xcqSC0XwKBgQDaYNFRa6jRHHI6/nPl1pCj1wW7iHYiwT7I0xvAz5GM7cMpc4BF\ngzSDiwUSZ6pu/e0j1OiBRifdq3ScS2bkG4Q6yJTW9I7rKOoVe2JvsVPwSN4m7g4Q\nck/fbKz6FGhUWgK47RfK3PmaOeL8rmX8cqXDxFqUixyggXuDUbLPCcgz8QKBgQC9\nF9tL+x9SVRtmtZJtWAZJexmBn7NJesqj7XC9KRPfMexCcmQngE++nVmQc1PWLorn\noMkVLI68n3+h2qFN2WqZVD7fUkiJNywNfZNyIwG2Koq0CeiSDRwpwVv3lPMmAZb1\nm9KxRKvIGxovB8Xt9vDP+d4AK9v9M+qVS5Y0tvFTSQKBgQCGwh7egUQMdwNGIGsf\nW07rZXPRVexYXFVYKOpaWjRhAFkdr8eOvBFuKdwAgVPxI9Su25xSrteYl4EOrFoP\nmUAyZA+PyAh7+pp3bzCdm5V+sBQD9dMnewb2FtHbImOtA1QbEy7OBE7ae9UgZr5l\nIbIg3LqMwfPYfVEbanGvf6SHMg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mentalhealthhacks@sleeplika.iam.gserviceaccount.com",
+  "client_id": "107648176846559371443",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mentalhealthhacks%40sleeplika.iam.gserviceaccount.com"
+}
